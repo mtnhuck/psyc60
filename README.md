@@ -1,7 +1,7 @@
 # psyc60 
 This repository hosts jupyter notebooks for that cover basics of fMRI preprocessing and analyses.
 
-*Instructors: Jeremy Huckins Alex daSilva*
+*Instructors: Jeremy Huckins & Alex daSilva*
 
 *Website developed by: Jeremy Huckins & Jin Hyun Cheong*
 
