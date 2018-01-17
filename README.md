@@ -2,6 +2,7 @@
 This repository hosts jupyter notebooks for that cover basics of fMRI preprocessing and analyses.
 
 *Instructors: Jeremy Huckins Alex daSilva*
+
 *Website developed by: Jeremy Huckins & Jin Hyun Cheong*
 
 [Prelab: Basic linux tutorial](https://ryanstutorials.net/linuxtutorial/) Please read and work through the main page and sections 1-5,7,14. Please see Jeremy or Alex if you need help getting to or installing a terminal on your laptop. If you don't have a laptop you can bring to class please let Jeremy know.
