@@ -14,9 +14,9 @@ In this lab we cover the basics of ssh logging into a cluster server and using a
 
 [Videos for SPM preprocessing.](https://www.dropbox.com/sh/8e40utug8zu2o50/AADqGIWgyQgUimTOXdtC-I94a?dl=0)
 
-[Lab 03: GLM analysis (in prep)](Notebooks/Lab_03_GLM.ipynb)  
+[Lab 03: GLM analysis](Notebooks/Lab_03_GLM.ipynb)  
 
-[Lab 04: Advanced methods (in prep)]
+[Lab 04: Statistics and Visualization ](https://github.com/mtnhuck/psyc60/blob/master/Notebooks/Lab_04_Stats.ipynb)
 
 [Lab 05: Other programs (in prep)]
 
