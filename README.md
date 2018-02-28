@@ -42,5 +42,6 @@ In this lab we cover the basics of ssh logging into a cluster server and using a
 
 # 3D Print your MRI
 [Method 1: Graphical walk-through](https://imgur.com/a/3mFsX)
+
 [Method 2: A docker container for 3D printing a brain](https://github.com/danjonpeterson/brain_printer)
 As a note, Jin mentioned that before printing you may want to merge the hemispheres in MeshLab.
